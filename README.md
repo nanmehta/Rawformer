@@ -1,6 +1,6 @@
 # Rawformer: Unpaired Raw-to-Raw Translation for Learnable Camera ISPs
 
-🚀 The paper was accepted to the [ECCV 2024](https://eccv.ecva.net/Conferences/2024) conference. The preprint is available on [arXiv](https://arxiv.org/abs/2404.10700). 🚀
+🚀 The paper was accepted to the [ECCV 2024](https://eccv.ecva.net/Conferences/2024) conference. 🚀
 
 ### Authors
 Georgy Perevozchikov, Nancy Mehta, Mahmoud Afifi, Radu Timofte
